@@ -1,0 +1,6 @@
+tk
+sentence-transformers
+pillow
+numpy
+cuml
+tf-keras
